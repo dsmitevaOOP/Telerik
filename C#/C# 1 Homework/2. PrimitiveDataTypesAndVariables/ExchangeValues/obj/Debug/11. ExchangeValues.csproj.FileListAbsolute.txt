@@ -1,0 +1,8 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\ExchangeValues\bin\Debug\ExchangeValues.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\ExchangeValues\bin\Debug\ExchangeValues.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\ExchangeValues\bin\Debug\ExchangeValues.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\ExchangeValues\obj\Debug\ExchangeValues.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\ExchangeValues\obj\Debug\ExchangeValues.pdb
+C:\Users\Dilyana\Desktop\New folder (2)\2. PrimitiveDataTypesAndVariables\ExchangeValues\bin\Debug\ExchangeValues.exe.config
+C:\Users\Dilyana\Desktop\New folder (2)\2. PrimitiveDataTypesAndVariables\ExchangeValues\obj\Debug\ExchangeValues.exe
+C:\Users\Dilyana\Desktop\New folder (2)\2. PrimitiveDataTypesAndVariables\ExchangeValues\obj\Debug\ExchangeValues.pdb

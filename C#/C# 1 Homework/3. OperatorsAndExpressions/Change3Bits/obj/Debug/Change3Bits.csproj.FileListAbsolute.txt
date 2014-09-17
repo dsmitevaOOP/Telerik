@@ -1,0 +1,4 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\Change3Bits\bin\Debug\Change3Bits.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\Change3Bits\bin\Debug\Change3Bits.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\Change3Bits\obj\Debug\Change3Bits.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\Change3Bits\obj\Debug\Change3Bits.pdb

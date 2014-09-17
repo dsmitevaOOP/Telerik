@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\BankAccount\bin\Debug\BankAccount.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\BankAccount\obj\Debug\14. BankAccount.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\BankAccount\obj\Debug\BankAccount.pdb

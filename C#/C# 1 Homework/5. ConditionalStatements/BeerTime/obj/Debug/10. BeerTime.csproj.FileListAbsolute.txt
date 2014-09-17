@@ -1,0 +1,5 @@
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\5. ConditionalStatements\BeerTime\bin\Debug\BeerTime.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\5. ConditionalStatements\BeerTime\bin\Debug\BeerTime.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\5. ConditionalStatements\BeerTime\bin\Debug\BeerTime.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\5. ConditionalStatements\BeerTime\obj\Debug\BeerTime.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\5. ConditionalStatements\BeerTime\obj\Debug\BeerTime.pdb

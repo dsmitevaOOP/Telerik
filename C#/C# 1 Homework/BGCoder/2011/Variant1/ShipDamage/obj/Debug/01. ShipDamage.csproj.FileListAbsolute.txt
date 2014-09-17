@@ -1,0 +1,9 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\Variant1\ShipDamage\obj\Debug\01. ShipDamage.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\Variant1\ShipDamage\bin\Debug\ShipDamage.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\Variant1\ShipDamage\bin\Debug\ShipDamage.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\Variant1\ShipDamage\bin\Debug\ShipDamage.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\Variant1\ShipDamage\obj\Debug\ShipDamage.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\Variant1\ShipDamage\obj\Debug\ShipDamage.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\BGCoder\2011\Variant1\ShipDamage\bin\Debug\ShipDamage.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\BGCoder\2011\Variant1\ShipDamage\obj\Debug\ShipDamage.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\BGCoder\2011\Variant1\ShipDamage\obj\Debug\ShipDamage.pdb

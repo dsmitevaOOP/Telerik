@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\MissCat\obj\Debug\02. MissCat.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\MissCat\bin\Debug\MissCat.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\MissCat\bin\Debug\MissCat.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\MissCat\bin\Debug\MissCat.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\MissCat\obj\Debug\MissCat.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\MissCat\obj\Debug\MissCat.pdb

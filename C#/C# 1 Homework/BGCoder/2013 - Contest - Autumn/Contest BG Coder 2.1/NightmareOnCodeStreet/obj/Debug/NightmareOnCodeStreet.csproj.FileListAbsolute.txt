@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Contest\NightmareOnCodeStreet\bin\Debug\NightmareOnCodeStreet.exe.config
+C:\Users\Dilyana\Desktop\Contest\NightmareOnCodeStreet\bin\Debug\NightmareOnCodeStreet.exe
+C:\Users\Dilyana\Desktop\Contest\NightmareOnCodeStreet\bin\Debug\NightmareOnCodeStreet.pdb
+C:\Users\Dilyana\Desktop\Contest\NightmareOnCodeStreet\obj\Debug\NightmareOnCodeStreet.exe
+C:\Users\Dilyana\Desktop\Contest\NightmareOnCodeStreet\obj\Debug\NightmareOnCodeStreet.pdb
+C:\Users\Dilyana\Desktop\Contest\NightmareOnCodeStreet\obj\Debug\NightmareOnCodeStreet.csprojResolveAssemblyReference.cache

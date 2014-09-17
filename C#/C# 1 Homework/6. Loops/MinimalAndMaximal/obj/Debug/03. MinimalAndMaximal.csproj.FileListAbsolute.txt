@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\MinimalAndMaximal\bin\Debug\MinimalAndMaximal.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\MinimalAndMaximal\obj\Debug\MinimalAndMaximal.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\MinimalAndMaximal\obj\Debug\MinimalAndMaximal.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\MinimalAndMaximal\obj\Debug\03. MinimalAndMaximal.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\MinimalAndMaximal\bin\Debug\MinimalAndMaximal.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\MinimalAndMaximal\bin\Debug\MinimalAndMaximal.pdb

@@ -1,0 +1,5 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\AssigningVariablesInHexFormat\bin\Debug\AssigningVariablesInHexFormat.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\AssigningVariablesInHexFormat\bin\Debug\AssigningVariablesInHexFormat.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\AssigningVariablesInHexFormat\bin\Debug\AssigningVariablesInHexFormat.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\AssigningVariablesInHexFormat\obj\Debug\AssigningVariablesInHexFormat.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\AssigningVariablesInHexFormat\obj\Debug\AssigningVariablesInHexFormat.pdb

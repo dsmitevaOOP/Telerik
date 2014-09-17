@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\3. Methods\MethodPrintHelloTest\bin\Debug\MethodPrintHelloTest.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\3. Methods\MethodPrintHelloTest\bin\Debug\MethodPrintHelloTest.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\3. Methods\MethodPrintHelloTest\bin\Debug\MethodPrintHelloTest.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\3. Methods\MethodPrintHelloTest\obj\Debug\MethodPrintHelloTest.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\3. Methods\MethodPrintHelloTest\obj\Debug\MethodPrintHelloTest.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\3. Methods\MethodPrintHelloTest\obj\Debug\MethodPrintHelloTest.pdb

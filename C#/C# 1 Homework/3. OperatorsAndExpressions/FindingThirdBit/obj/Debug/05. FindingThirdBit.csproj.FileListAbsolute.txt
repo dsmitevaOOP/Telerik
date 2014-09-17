@@ -1,0 +1,8 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\FindingThirdBit\bin\Debug\FindingThirdBit.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\FindingThirdBit\bin\Debug\FindingThirdBit.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\FindingThirdBit\bin\Debug\FindingThirdBit.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\FindingThirdBit\obj\Debug\FindingThirdBit.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\FindingThirdBit\obj\Debug\FindingThirdBit.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\FindingThirdBit\bin\Debug\FindingThirdBit.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\FindingThirdBit\obj\Debug\FindingThirdBit.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\FindingThirdBit\obj\Debug\FindingThirdBit.pdb

@@ -1,0 +1,5 @@
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\4. ConsoleInputOutput\SumFiveNumbers\bin\Debug\SumFiveNumbers.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\4. ConsoleInputOutput\SumFiveNumbers\bin\Debug\SumFiveNumbers.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\4. ConsoleInputOutput\SumFiveNumbers\bin\Debug\SumFiveNumbers.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\4. ConsoleInputOutput\SumFiveNumbers\obj\Debug\SumFiveNumbers.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\4. ConsoleInputOutput\SumFiveNumbers\obj\Debug\SumFiveNumbers.pdb

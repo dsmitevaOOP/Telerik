@@ -1,0 +1,4 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\Matrix\obj\Debug\Matrix.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\Matrix\obj\Debug\Matrix.pdb

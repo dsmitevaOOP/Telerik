@@ -1,0 +1,9 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\Fire\bin\Debug\Fire.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\Fire\bin\Debug\Fire.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\Fire\bin\Debug\Fire.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\Fire\obj\Debug\Fire.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\Fire\obj\Debug\Fire.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\Fire\obj\Debug\04. Fire.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\BGCoder\2013 - Neurons, Bittris\Variant 1 2013\Fire\bin\Debug\Fire.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\BGCoder\2013 - Neurons, Bittris\Variant 1 2013\Fire\obj\Debug\Fire.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\BGCoder\2013 - Neurons, Bittris\Variant 1 2013\Fire\obj\Debug\Fire.pdb

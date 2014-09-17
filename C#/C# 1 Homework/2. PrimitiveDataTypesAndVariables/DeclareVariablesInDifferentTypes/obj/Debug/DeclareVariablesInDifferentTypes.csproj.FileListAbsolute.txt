@@ -1,0 +1,1 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\DeclareVariablesInDifferentTypes\bin\Debug\DeclareVariablesInDifferentTypes.exe.config

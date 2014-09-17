@@ -1,0 +1,11 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\SampleExam2011\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\SampleExam2011\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\SampleExam2011\BinaryDigitsCount\obj\Debug\BinaryDigitsCount.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\SampleExam2011\BinaryDigitsCount\obj\Debug\04. BinaryDigitsCount.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\SampleExam2011\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\SampleExam2011\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.pdb

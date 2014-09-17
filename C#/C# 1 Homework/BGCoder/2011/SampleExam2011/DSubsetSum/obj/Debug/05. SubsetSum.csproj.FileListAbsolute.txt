@@ -1,0 +1,12 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\SubsetSum\bin\Debug\SubsetSum.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\SubsetSum\bin\Debug\SubsetSum.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\SubsetSum\bin\Debug\SubsetSum.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\SubsetSum\obj\Debug\05. SubsetSum.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\SubsetSum\obj\Debug\SubsetSum.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\SubsetSum\obj\Debug\SubsetSum.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\SampleExam2011\SubsetSum\bin\Debug\SubsetSum.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\SampleExam2011\SubsetSum\obj\Debug\SubsetSum.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\SampleExam2011\SubsetSum\obj\Debug\SubsetSum.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\BGCoder\2011\SampleExam2011\SubsetSum\bin\Debug\SubsetSum.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\BGCoder\2011\SampleExam2011\SubsetSum\obj\Debug\SubsetSum.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\BGCoder\2011\SampleExam2011\SubsetSum\obj\Debug\SubsetSum.pdb

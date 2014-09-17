@@ -1,0 +1,9 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\BonusScore\bin\Debug\BonusScore.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\BonusScore\bin\Debug\BonusScore.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\BonusScore\bin\Debug\BonusScore.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\BonusScore\obj\Debug\10. BonusScore.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\BonusScore\obj\Debug\BonusScore.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\BonusScore\obj\Debug\BonusScore.pdb
+C:\Users\Dilyana\Desktop\Homework\BonusScore\bin\Debug\BonusScore.exe.config
+C:\Users\Dilyana\Desktop\Homework\BonusScore\obj\Debug\BonusScore.exe
+C:\Users\Dilyana\Desktop\Homework\BonusScore\obj\Debug\BonusScore.pdb

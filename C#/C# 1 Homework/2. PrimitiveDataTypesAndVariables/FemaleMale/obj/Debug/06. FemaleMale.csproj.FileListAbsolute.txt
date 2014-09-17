@@ -1,0 +1,9 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\Homework\2. PrimitiveDataTypesAndVariables\FemaleMale\bin\Debug\FemaleMale.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\Homework\2. PrimitiveDataTypesAndVariables\FemaleMale\obj\Debug\FemaleMale.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\Homework\2. PrimitiveDataTypesAndVariables\FemaleMale\obj\Debug\FemaleMale.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\FemaleMale\bin\Debug\FemaleMale.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\FemaleMale\obj\Debug\FemaleMale.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\FemaleMale\obj\Debug\FemaleMale.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\2. PrimitiveDataTypesAndVariables\FemaleMale\bin\Debug\FemaleMale.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\2. PrimitiveDataTypesAndVariables\FemaleMale\obj\Debug\FemaleMale.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\2. PrimitiveDataTypesAndVariables\FemaleMale\obj\Debug\FemaleMale.pdb

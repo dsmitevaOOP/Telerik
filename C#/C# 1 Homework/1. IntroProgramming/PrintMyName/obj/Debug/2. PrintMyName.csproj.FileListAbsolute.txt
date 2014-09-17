@@ -1,0 +1,14 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\VS\TelerikTest\IntroProgramming\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\VS\TelerikTest\IntroProgramming\PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\VS\TelerikTest\IntroProgramming\PrintMyName\bin\Debug\PrintMyName.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\VS\TelerikTest\IntroProgramming\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\VS\TelerikTest\IntroProgramming\PrintMyName\obj\Debug\PrintMyName.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\1. IntroProgramming\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\1. IntroProgramming\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\1. IntroProgramming\PrintMyName\obj\Debug\PrintMyName.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 1 Homework\1. IntroProgramming\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 1 Homework\1. IntroProgramming\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 1 Homework\1. IntroProgramming\PrintMyName\obj\Debug\PrintMyName.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\1. IntroProgramming\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\1. IntroProgramming\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\1. IntroProgramming\PrintMyName\obj\Debug\PrintMyName.pdb

@@ -1,0 +1,4 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\ExchangingSeriesOfBits\bin\Debug\ExchangingSeriesOfBits.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\ExchangingSeriesOfBits\bin\Debug\ExchangingSeriesOfBits.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\ExchangingSeriesOfBits\obj\Debug\ExchangingSeriesOfBits.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\ExchangingSeriesOfBits\obj\Debug\ExchangingSeriesOfBits.pdb

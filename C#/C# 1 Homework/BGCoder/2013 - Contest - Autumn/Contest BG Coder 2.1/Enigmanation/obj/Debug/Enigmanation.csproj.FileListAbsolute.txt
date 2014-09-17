@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Contest\Enigmanation\bin\Debug\Enigmanation.exe.config
+C:\Users\Dilyana\Desktop\Contest\Enigmanation\bin\Debug\Enigmanation.exe
+C:\Users\Dilyana\Desktop\Contest\Enigmanation\bin\Debug\Enigmanation.pdb
+C:\Users\Dilyana\Desktop\Contest\Enigmanation\obj\Debug\Enigmanation.exe
+C:\Users\Dilyana\Desktop\Contest\Enigmanation\obj\Debug\Enigmanation.pdb
+C:\Users\Dilyana\Desktop\Contest\Enigmanation\obj\Debug\Enigmanation.csprojResolveAssemblyReference.cache

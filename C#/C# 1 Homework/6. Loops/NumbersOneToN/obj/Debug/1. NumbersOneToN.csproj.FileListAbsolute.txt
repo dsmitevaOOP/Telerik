@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\NumbersOneToN\bin\Debug\NumbersOneToN.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\NumbersOneToN\bin\Debug\NumbersOneToN.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\NumbersOneToN\bin\Debug\NumbersOneToN.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\NumbersOneToN\obj\Debug\1. NumbersOneToN.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\NumbersOneToN\obj\Debug\NumbersOneToN.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\NumbersOneToN\obj\Debug\NumbersOneToN.pdb

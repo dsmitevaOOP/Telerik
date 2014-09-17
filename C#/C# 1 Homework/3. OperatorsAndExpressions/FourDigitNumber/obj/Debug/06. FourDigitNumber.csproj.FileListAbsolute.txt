@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\FourDigitNumber\obj\Debug\06. FourDigitNumber.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\FourDigitNumber\obj\Debug\FourDigitNumber.pdb

@@ -1,0 +1,5 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\Do7And5DivideInt\bin\Debug\Do7And5DivideInt.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\Do7And5DivideInt\bin\Debug\Do7And5DivideInt.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\Do7And5DivideInt\bin\Debug\Do7And5DivideInt.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\Do7And5DivideInt\obj\Debug\Do7And5DivideInt.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\Do7And5DivideInt\obj\Debug\Do7And5DivideInt.pdb

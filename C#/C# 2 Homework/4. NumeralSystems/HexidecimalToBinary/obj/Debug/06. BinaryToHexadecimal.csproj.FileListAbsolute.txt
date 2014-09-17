@@ -1,0 +1,5 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\4. NumeralSystems\HexidecimalToBinary\bin\Debug\HexidecimalToBinary.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\4. NumeralSystems\HexidecimalToBinary\bin\Debug\HexidecimalToBinary.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\4. NumeralSystems\HexidecimalToBinary\bin\Debug\HexidecimalToBinary.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\4. NumeralSystems\HexidecimalToBinary\obj\Debug\HexidecimalToBinary.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\4. NumeralSystems\HexidecimalToBinary\obj\Debug\HexidecimalToBinary.pdb

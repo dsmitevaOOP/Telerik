@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\CompareFloatingPointNumbers\bin\Debug\CompareFloatingPointNumbers.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\CompareFloatingPointNumbers\bin\Debug\CompareFloatingPointNumbers.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\CompareFloatingPointNumbers\bin\Debug\CompareFloatingPointNumbers.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\CompareFloatingPointNumbers\obj\Debug\3. CompareFloatingPointNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\CompareFloatingPointNumbers\obj\Debug\CompareFloatingPointNumbers.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\CompareFloatingPointNumbers\obj\Debug\CompareFloatingPointNumbers.pdb

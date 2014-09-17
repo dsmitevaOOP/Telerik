@@ -1,0 +1,4 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\PrintNumbersDividedBy5WithoutReminder\bin\Debug\PrintNumbersDividedBy5WithoutReminder.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\4. ConsoleInputOutput\PrintNumbersDividedBy5WithoutReminder\bin\Debug\PrintNumbersDividedBy5WithoutReminder.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\4. ConsoleInputOutput\PrintNumbersDividedBy5WithoutReminder\obj\Debug\PrintNumbersDividedBy5WithoutReminder.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\4. ConsoleInputOutput\PrintNumbersDividedBy5WithoutReminder\obj\Debug\PrintNumbersDividedBy5WithoutReminder.pdb

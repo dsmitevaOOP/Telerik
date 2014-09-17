@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\ShowNameOfDigit\obj\Debug\05. ShowNameOfDigit.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\ShowNameOfDigit\bin\Debug\ShowNameOfDigit.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\ShowNameOfDigit\bin\Debug\ShowNameOfDigit.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\ShowNameOfDigit\bin\Debug\ShowNameOfDigit.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\ShowNameOfDigit\obj\Debug\ShowNameOfDigit.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\ShowNameOfDigit\obj\Debug\ShowNameOfDigit.pdb

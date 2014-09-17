@@ -1,0 +1,9 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\CalculateExpressionsWithFactorialsSecVar\bin\Debug\CalculateExpressionsWithFactorialsSecVar.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\CalculateExpressionsWithFactorialsSecVar\bin\Debug\CalculateExpressionsWithFactorialsSecVar.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\CalculateExpressionsWithFactorialsSecVar\bin\Debug\CalculateExpressionsWithFactorialsSecVar.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\CalculateExpressionsWithFactorialsSecVar\obj\Debug\05. CalculateExpressionsWithFactorialsSecVar.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\CalculateExpressionsWithFactorialsSecVar\obj\Debug\CalculateExpressionsWithFactorialsSecVar.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\CalculateExpressionsWithFactorialsSecVar\obj\Debug\CalculateExpressionsWithFactorialsSecVar.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\CalculateExpressionsWithFactorialsSecVar\bin\Debug\CalculateExpressionsWithFactorialsSecVar.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\CalculateExpressionsWithFactorialsSecVar\obj\Debug\CalculateExpressionsWithFactorialsSecVar.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\CalculateExpressionsWithFactorialsSecVar\obj\Debug\CalculateExpressionsWithFactorialsSecVar.pdb

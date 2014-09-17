@@ -1,0 +1,12 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\SolveQuadraticEquation\bin\Debug\SolveQuadraticEquation.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\SolveQuadraticEquation\bin\Debug\SolveQuadraticEquation.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\SolveQuadraticEquation\bin\Debug\SolveQuadraticEquation.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\SolveQuadraticEquation\obj\Debug\06. SolveQuadraticEquation.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\SolveQuadraticEquation\obj\Debug\SolveQuadraticEquation.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\SolveQuadraticEquation\obj\Debug\SolveQuadraticEquation.pdb
+C:\Users\Dilyana\Desktop\Homework\SolveQuadraticEquation\bin\Debug\SolveQuadraticEquation.exe.config
+C:\Users\Dilyana\Desktop\Homework\SolveQuadraticEquation\obj\Debug\SolveQuadraticEquation.exe
+C:\Users\Dilyana\Desktop\Homework\SolveQuadraticEquation\obj\Debug\SolveQuadraticEquation.pdb
+C:\Users\Dilyana\Desktop\Homework\SolveQuadraticEquation\bin\Debug\SolveQuadraticEquation.exe
+C:\Users\Dilyana\Desktop\Homework\SolveQuadraticEquation\bin\Debug\SolveQuadraticEquation.pdb
+C:\Users\Dilyana\Desktop\Homework\SolveQuadraticEquation\obj\Debug\06. SolveQuadraticEquation.csprojResolveAssemblyReference.cache

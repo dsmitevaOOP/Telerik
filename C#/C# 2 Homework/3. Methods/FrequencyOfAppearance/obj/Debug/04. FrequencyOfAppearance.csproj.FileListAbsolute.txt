@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\3. Methods\FrequencyOfAppearance\bin\Debug\FrequencyOfAppearance.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\3. Methods\FrequencyOfAppearance\obj\Debug\04. FrequencyOfAppearance.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\3. Methods\FrequencyOfAppearance\bin\Debug\FrequencyOfAppearance.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\3. Methods\FrequencyOfAppearance\bin\Debug\FrequencyOfAppearance.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\3. Methods\FrequencyOfAppearance\obj\Debug\FrequencyOfAppearance.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\3. Methods\FrequencyOfAppearance\obj\Debug\FrequencyOfAppearance.pdb

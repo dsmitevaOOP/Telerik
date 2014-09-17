@@ -1,0 +1,9 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\ExtractBit\bin\Debug\ExtractBit.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\ExtractBit\bin\Debug\ExtractBit.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\ExtractBit\bin\Debug\ExtractBit.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\ExtractBit\obj\Debug\ExtractBit.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\ExtractBit\obj\Debug\ExtractBit.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\ExtractBit\obj\Debug\11. ExtractBit.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\ExtractBit\bin\Debug\ExtractBit.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\ExtractBit\obj\Debug\ExtractBit.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\ExtractBit\obj\Debug\ExtractBit.pdb

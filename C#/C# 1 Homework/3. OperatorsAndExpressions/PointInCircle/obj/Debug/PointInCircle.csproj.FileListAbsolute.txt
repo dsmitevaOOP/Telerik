@@ -1,0 +1,4 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\PointInCircle\bin\Debug\PointInCircle.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\PointInCircle\bin\Debug\PointInCircle.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\PointInCircle\obj\Debug\PointInCircle.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\PointInCircle\obj\Debug\PointInCircle.pdb

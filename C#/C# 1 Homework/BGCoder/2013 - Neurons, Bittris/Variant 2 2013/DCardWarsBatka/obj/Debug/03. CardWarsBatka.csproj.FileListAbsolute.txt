@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\Variant2\CardWarsBatka\bin\Debug\CardWarsBatka.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\Variant2\CardWarsBatka\bin\Debug\CardWarsBatka.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\Variant2\CardWarsBatka\bin\Debug\CardWarsBatka.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\Variant2\CardWarsBatka\obj\Debug\CardWarsBatka.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\Variant2\CardWarsBatka\obj\Debug\CardWarsBatka.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\Variant2\CardWarsBatka\obj\Debug\03. CardWarsBatka.csprojResolveAssemblyReference.cache

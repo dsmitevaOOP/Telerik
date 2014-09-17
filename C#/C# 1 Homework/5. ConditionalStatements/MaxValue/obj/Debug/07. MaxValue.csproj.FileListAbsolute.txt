@@ -1,0 +1,5 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\MaxValue\bin\Debug\MaxValue.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\MaxValue\bin\Debug\MaxValue.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\MaxValue\bin\Debug\MaxValue.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\MaxValue\obj\Debug\MaxValue.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\MaxValue\obj\Debug\MaxValue.pdb

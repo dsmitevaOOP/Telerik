@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\PrintNumbers1ToN\bin\Debug\PrintNumbers1ToN.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\PrintNumbers1ToN\obj\Debug\PrintNumbers1ToN.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\PrintNumbers1ToN\obj\Debug\PrintNumbers1ToN.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\4. ConsoleInputOutput\PrintNumbers1ToN\bin\Debug\PrintNumbers1ToN.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\4. ConsoleInputOutput\PrintNumbers1ToN\obj\Debug\PrintNumbers1ToN.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\4. ConsoleInputOutput\PrintNumbers1ToN\obj\Debug\PrintNumbers1ToN.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\ForestRoad\obj\Debug\03. ForestRoad.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\ForestRoad\bin\Debug\ForestRoad.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\ForestRoad\bin\Debug\ForestRoad.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\ForestRoad\bin\Debug\ForestRoad.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\ForestRoad\obj\Debug\ForestRoad.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\ForestRoad\obj\Debug\ForestRoad.pdb

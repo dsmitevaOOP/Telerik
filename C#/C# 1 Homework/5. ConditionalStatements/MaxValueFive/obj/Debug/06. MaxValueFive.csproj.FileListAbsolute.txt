@@ -1,0 +1,5 @@
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\5. ConditionalStatements\MaxValueFive\bin\Debug\MaxValueFive.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\5. ConditionalStatements\MaxValueFive\bin\Debug\MaxValueFive.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\5. ConditionalStatements\MaxValueFive\bin\Debug\MaxValueFive.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\5. ConditionalStatements\MaxValueFive\obj\Debug\MaxValueFive.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\5. ConditionalStatements\MaxValueFive\obj\Debug\MaxValueFive.pdb

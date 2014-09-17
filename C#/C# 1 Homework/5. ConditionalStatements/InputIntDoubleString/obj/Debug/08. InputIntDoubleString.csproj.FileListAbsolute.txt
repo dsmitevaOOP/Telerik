@@ -1,0 +1,8 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\InputIntDoubleString\bin\Debug\InputIntDoubleString.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\InputIntDoubleString\bin\Debug\InputIntDoubleString.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\InputIntDoubleString\bin\Debug\InputIntDoubleString.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\InputIntDoubleString\obj\Debug\InputIntDoubleString.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\InputIntDoubleString\obj\Debug\InputIntDoubleString.pdb
+C:\Users\Dilyana\Desktop\Homework\InputIntDoubleString\bin\Debug\InputIntDoubleString.exe.config
+C:\Users\Dilyana\Desktop\Homework\InputIntDoubleString\obj\Debug\InputIntDoubleString.exe
+C:\Users\Dilyana\Desktop\Homework\InputIntDoubleString\obj\Debug\InputIntDoubleString.pdb

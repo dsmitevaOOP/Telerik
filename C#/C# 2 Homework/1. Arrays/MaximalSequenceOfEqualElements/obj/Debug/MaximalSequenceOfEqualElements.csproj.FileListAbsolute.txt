@@ -1,0 +1,1 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\1. Arrays\MaximalSequenceOfEqualElements\bin\Debug\MaximalSequenceOfEqualElements.exe.config

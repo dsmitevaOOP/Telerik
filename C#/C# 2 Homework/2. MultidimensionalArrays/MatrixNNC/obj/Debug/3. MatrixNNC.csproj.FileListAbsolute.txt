@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\2. MultidimensionalArrays\MatrixNNC\bin\Debug\MatrixNNC.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\2. MultidimensionalArrays\MatrixNNC\bin\Debug\MatrixNNC.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\2. MultidimensionalArrays\MatrixNNC\bin\Debug\MatrixNNC.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\2. MultidimensionalArrays\MatrixNNC\obj\Debug\3. MatrixNNC.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\2. MultidimensionalArrays\MatrixNNC\obj\Debug\MatrixNNC.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\2. MultidimensionalArrays\MatrixNNC\obj\Debug\MatrixNNC.pdb

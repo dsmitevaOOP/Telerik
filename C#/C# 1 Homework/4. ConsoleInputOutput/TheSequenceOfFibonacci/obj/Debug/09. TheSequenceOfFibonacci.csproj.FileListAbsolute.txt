@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\TheSequenceOfFibonacci\bin\Debug\TheSequenceOfFibonacci.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\TheSequenceOfFibonacci\obj\Debug\TheSequenceOfFibonacci.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\TheSequenceOfFibonacci\obj\Debug\TheSequenceOfFibonacci.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\4. ConsoleInputOutput\TheSequenceOfFibonacci\bin\Debug\TheSequenceOfFibonacci.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\4. ConsoleInputOutput\TheSequenceOfFibonacci\obj\Debug\TheSequenceOfFibonacci.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\4. ConsoleInputOutput\TheSequenceOfFibonacci\obj\Debug\TheSequenceOfFibonacci.pdb

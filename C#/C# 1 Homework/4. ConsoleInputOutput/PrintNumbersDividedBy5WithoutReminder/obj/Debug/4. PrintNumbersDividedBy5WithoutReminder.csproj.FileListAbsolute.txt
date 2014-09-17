@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\PrintNumbersDividedBy5WithoutReminder\bin\Debug\PrintNumbersDividedBy5WithoutReminder.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\PrintNumbersDividedBy5WithoutReminder\bin\Debug\PrintNumbersDividedBy5WithoutReminder.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\PrintNumbersDividedBy5WithoutReminder\bin\Debug\PrintNumbersDividedBy5WithoutReminder.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\PrintNumbersDividedBy5WithoutReminder\obj\Debug\4. PrintNumbersDividedBy5WithoutReminder.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\PrintNumbersDividedBy5WithoutReminder\obj\Debug\PrintNumbersDividedBy5WithoutReminder.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\PrintNumbersDividedBy5WithoutReminder\obj\Debug\PrintNumbersDividedBy5WithoutReminder.pdb

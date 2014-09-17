@@ -1,0 +1,3 @@
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\2. PrimitiveDataTypesAndVariables\UnicodeSign72\bin\Debug\UnicodeSign72.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\2. PrimitiveDataTypesAndVariables\UnicodeSign72\obj\Debug\UnicodeSign72.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\2. PrimitiveDataTypesAndVariables\UnicodeSign72\obj\Debug\UnicodeSign72.pdb

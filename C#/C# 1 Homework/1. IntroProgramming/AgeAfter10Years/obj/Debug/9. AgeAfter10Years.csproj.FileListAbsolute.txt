@@ -1,0 +1,3 @@
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\1. IntroProgramming\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\1. IntroProgramming\AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\1. IntroProgramming\AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb

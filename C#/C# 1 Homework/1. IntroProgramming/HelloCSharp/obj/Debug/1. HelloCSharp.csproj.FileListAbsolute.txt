@@ -1,0 +1,24 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\VS\TelerikTest\IntroProgramming\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\VS\TelerikTest\IntroProgramming\HelloCSharp\bin\Debug\HelloCSharp.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\VS\TelerikTest\IntroProgramming\HelloCSharp\bin\Debug\HelloCSharp.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\VS\TelerikTest\IntroProgramming\HelloCSharp\obj\Debug\1. HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\VS\TelerikTest\IntroProgramming\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\VS\TelerikTest\IntroProgramming\HelloCSharp\obj\Debug\HelloCSharp.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\IntroProgramming\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\IntroProgramming\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\IntroProgramming\HelloCSharp\obj\Debug\HelloCSharp.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\1. IntroProgramming\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\1. IntroProgramming\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\1. IntroProgramming\HelloCSharp\obj\Debug\HelloCSharp.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\1. IntroProgramming\HelloCSharp\bin\Debug\HelloCSharp.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\1. IntroProgramming\HelloCSharp\bin\Debug\HelloCSharp.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\1. IntroProgramming\HelloCSharp\obj\Debug\1. HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 1 Homework\1. IntroProgramming\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 1 Homework\1. IntroProgramming\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 1 Homework\1. IntroProgramming\HelloCSharp\obj\Debug\HelloCSharp.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 1 Homework\1. IntroProgramming\HelloCSharp\bin\Debug\HelloCSharp.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 1 Homework\1. IntroProgramming\HelloCSharp\bin\Debug\HelloCSharp.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 1 Homework\1. IntroProgramming\HelloCSharp\obj\Debug\1. HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\1. IntroProgramming\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\1. IntroProgramming\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\1. IntroProgramming\HelloCSharp\obj\Debug\HelloCSharp.pdb

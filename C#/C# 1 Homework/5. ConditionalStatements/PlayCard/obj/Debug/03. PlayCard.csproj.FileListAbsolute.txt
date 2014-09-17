@@ -1,0 +1,5 @@
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\5. ConditionalStatements\PlayCard\bin\Debug\PlayCard.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\5. ConditionalStatements\PlayCard\bin\Debug\PlayCard.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\5. ConditionalStatements\PlayCard\bin\Debug\PlayCard.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\5. ConditionalStatements\PlayCard\obj\Debug\PlayCard.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\5. ConditionalStatements\PlayCard\obj\Debug\PlayCard.pdb

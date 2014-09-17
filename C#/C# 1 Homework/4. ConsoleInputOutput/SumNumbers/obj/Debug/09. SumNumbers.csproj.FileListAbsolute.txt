@@ -1,0 +1,3 @@
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\4. ConsoleInputOutput\SumNumbers\bin\Debug\SumNumbers.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\4. ConsoleInputOutput\SumNumbers\obj\Debug\SumNumbers.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\4. ConsoleInputOutput\SumNumbers\obj\Debug\SumNumbers.pdb

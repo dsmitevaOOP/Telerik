@@ -1,0 +1,17 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\VS\TelerikTest\IntroProgramming\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\VS\TelerikTest\IntroProgramming\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\VS\TelerikTest\IntroProgramming\AgeAfter10Years\bin\Debug\AgeAfter10Years.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\VS\TelerikTest\IntroProgramming\AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\VS\TelerikTest\IntroProgramming\AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\IntroProgramming\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\IntroProgramming\AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\IntroProgramming\AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\1. IntroProgramming\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\1. IntroProgramming\AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\1. IntroProgramming\AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\1. IntroProgramming\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\1. IntroProgramming\AgeAfter10Years\bin\Debug\AgeAfter10Years.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\1. IntroProgramming\AgeAfter10Years\obj\Debug\8. AgeAfter10Years.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\1. IntroProgramming\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\1. IntroProgramming\AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\1. IntroProgramming\AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb

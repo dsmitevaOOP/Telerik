@@ -1,0 +1,5 @@
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\Numbers1ToNNotDivisibleBy3And7\bin\Debug\Numbers1ToNNotDivisibleBy3And7.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\Numbers1ToNNotDivisibleBy3And7\obj\Debug\Numbers1ToNNotDivisibleBy3And7.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\Numbers1ToNNotDivisibleBy3And7\obj\Debug\Numbers1ToNNotDivisibleBy3And7.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\Numbers1ToNNotDivisibleBy3And7\bin\Debug\Numbers1ToNNotDivisibleBy3And7.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\Numbers1ToNNotDivisibleBy3And7\bin\Debug\Numbers1ToNNotDivisibleBy3And7.pdb

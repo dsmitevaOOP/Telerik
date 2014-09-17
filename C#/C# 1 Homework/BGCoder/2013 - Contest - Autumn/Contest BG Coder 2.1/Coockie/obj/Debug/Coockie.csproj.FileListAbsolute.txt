@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Contest\Coockie\bin\Debug\Coockie.exe.config
+C:\Users\Dilyana\Desktop\Contest\Coockie\obj\Debug\Coockie.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Contest\Coockie\bin\Debug\Coockie.exe
+C:\Users\Dilyana\Desktop\Contest\Coockie\bin\Debug\Coockie.pdb
+C:\Users\Dilyana\Desktop\Contest\Coockie\obj\Debug\Coockie.exe
+C:\Users\Dilyana\Desktop\Contest\Coockie\obj\Debug\Coockie.pdb

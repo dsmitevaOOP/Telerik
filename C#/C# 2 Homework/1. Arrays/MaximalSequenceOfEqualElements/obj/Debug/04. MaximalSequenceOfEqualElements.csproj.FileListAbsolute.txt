@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\1. Arrays\MaximalSequenceOfEqualElements\bin\Debug\MaximalSequenceOfEqualElements.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\1. Arrays\MaximalSequenceOfEqualElements\bin\Debug\MaximalSequenceOfEqualElements.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\1. Arrays\MaximalSequenceOfEqualElements\bin\Debug\MaximalSequenceOfEqualElements.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\1. Arrays\MaximalSequenceOfEqualElements\obj\Debug\04. MaximalSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\1. Arrays\MaximalSequenceOfEqualElements\obj\Debug\MaximalSequenceOfEqualElements.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\1. Arrays\MaximalSequenceOfEqualElements\obj\Debug\MaximalSequenceOfEqualElements.pdb

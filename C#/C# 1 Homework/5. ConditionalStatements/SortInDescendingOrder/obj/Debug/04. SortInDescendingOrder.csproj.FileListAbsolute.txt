@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\SortInDescendingOrder\bin\Debug\SortInDescendingOrder.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\SortInDescendingOrder\bin\Debug\SortInDescendingOrder.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\SortInDescendingOrder\bin\Debug\SortInDescendingOrder.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\SortInDescendingOrder\obj\Debug\04. SortInDescendingOrder.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\SortInDescendingOrder\obj\Debug\SortInDescendingOrder.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\SortInDescendingOrder\obj\Debug\SortInDescendingOrder.pdb

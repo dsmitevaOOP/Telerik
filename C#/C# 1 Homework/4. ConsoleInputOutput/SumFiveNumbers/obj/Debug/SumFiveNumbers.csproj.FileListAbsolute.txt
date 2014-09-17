@@ -1,0 +1,1 @@
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\4. ConsoleInputOutput\SumFiveNumbers\bin\Debug\SumFiveNumbers.exe.config

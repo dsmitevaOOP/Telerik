@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\DrunkenNumbers\bin\Debug\DrunkenNumbers.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\DrunkenNumbers\obj\Debug\02. DrunkenNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\DrunkenNumbers\obj\Debug\DrunkenNumbers.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\DrunkenNumbers\obj\Debug\DrunkenNumbers.pdb

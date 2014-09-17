@@ -1,0 +1,1 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\BinaryDigitsCount\bin\Debug\BinaryDigitsCount.exe.config

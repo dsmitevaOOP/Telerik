@@ -1,0 +1,3 @@
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\1. IntroProgramming\Sqrt12345\bin\Debug\Sqrt12345.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\1. IntroProgramming\Sqrt12345\obj\Debug\Sqrt12345.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\1. IntroProgramming\Sqrt12345\obj\Debug\Sqrt12345.pdb

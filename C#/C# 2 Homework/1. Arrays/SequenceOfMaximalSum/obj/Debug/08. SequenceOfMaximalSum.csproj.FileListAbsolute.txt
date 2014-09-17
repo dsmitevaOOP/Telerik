@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\1. Arrays\SequenceOfMaximalSum\bin\Debug\SequenceOfMaximalSum.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\1. Arrays\SequenceOfMaximalSum\bin\Debug\SequenceOfMaximalSum.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\1. Arrays\SequenceOfMaximalSum\bin\Debug\SequenceOfMaximalSum.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\1. Arrays\SequenceOfMaximalSum\obj\Debug\08. SequenceOfMaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\1. Arrays\SequenceOfMaximalSum\obj\Debug\SequenceOfMaximalSum.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\1. Arrays\SequenceOfMaximalSum\obj\Debug\SequenceOfMaximalSum.pdb

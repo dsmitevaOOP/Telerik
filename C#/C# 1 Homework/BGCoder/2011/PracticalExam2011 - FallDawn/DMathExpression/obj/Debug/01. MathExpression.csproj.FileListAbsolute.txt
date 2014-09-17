@@ -1,0 +1,12 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\PracticalExam2011\MathExpression\bin\Debug\MathExpression.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\PracticalExam2011\MathExpression\bin\Debug\MathExpression.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\PracticalExam2011\MathExpression\bin\Debug\MathExpression.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\PracticalExam2011\MathExpression\obj\Debug\01. MathExpression.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\PracticalExam2011\MathExpression\obj\Debug\MathExpression.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\PracticalExam2011\MathExpression\obj\Debug\MathExpression.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\PracticalExam2011 - FallDown\MathExpression\bin\Debug\MathExpression.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\PracticalExam2011 - FallDown\MathExpression\obj\Debug\MathExpression.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\PracticalExam2011 - FallDown\MathExpression\obj\Debug\MathExpression.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\BGCoder\2011\PracticalExam2011 - FallDawn\MathExpression\bin\Debug\MathExpression.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\BGCoder\2011\PracticalExam2011 - FallDawn\MathExpression\obj\Debug\MathExpression.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\BGCoder\2011\PracticalExam2011 - FallDawn\MathExpression\obj\Debug\MathExpression.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\New folder (2)\2. PrimitiveDataTypesAndVariables\IsoscelesTriangleCopyright\bin\Debug\IsoscelesTriangleCopyright.exe.config
+C:\Users\Dilyana\Desktop\New folder (2)\2. PrimitiveDataTypesAndVariables\IsoscelesTriangleCopyright\obj\Debug\IsoscelesTriangleCopyright.exe
+C:\Users\Dilyana\Desktop\New folder (2)\2. PrimitiveDataTypesAndVariables\IsoscelesTriangleCopyright\obj\Debug\IsoscelesTriangleCopyright.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\2. PrimitiveDataTypesAndVariables\2. Homework - Edited\2. PrimitiveDataTypesAndVariables\IsoscelesTriangleCopyright\bin\Debug\IsoscelesTriangleCopyright.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\2. PrimitiveDataTypesAndVariables\2. Homework - Edited\2. PrimitiveDataTypesAndVariables\IsoscelesTriangleCopyright\obj\Debug\IsoscelesTriangleCopyright.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\2. PrimitiveDataTypesAndVariables\2. Homework - Edited\2. PrimitiveDataTypesAndVariables\IsoscelesTriangleCopyright\obj\Debug\IsoscelesTriangleCopyright.pdb

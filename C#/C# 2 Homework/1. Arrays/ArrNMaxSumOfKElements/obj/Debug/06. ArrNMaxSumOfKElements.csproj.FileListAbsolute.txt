@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\1. Arrays\ArrNMaxSumOfKElements\bin\Debug\ArrNMaxSumOfKElements.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\1. Arrays\ArrNMaxSumOfKElements\bin\Debug\ArrNMaxSumOfKElements.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\1. Arrays\ArrNMaxSumOfKElements\bin\Debug\ArrNMaxSumOfKElements.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\1. Arrays\ArrNMaxSumOfKElements\obj\Debug\06. ArrNMaxSumOfKElements.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\1. Arrays\ArrNMaxSumOfKElements\obj\Debug\ArrNMaxSumOfKElements.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\1. Arrays\ArrNMaxSumOfKElements\obj\Debug\ArrNMaxSumOfKElements.pdb

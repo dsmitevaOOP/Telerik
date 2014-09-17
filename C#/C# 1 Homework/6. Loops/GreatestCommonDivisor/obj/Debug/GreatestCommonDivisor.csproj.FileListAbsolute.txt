@@ -1,0 +1,4 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.pdb

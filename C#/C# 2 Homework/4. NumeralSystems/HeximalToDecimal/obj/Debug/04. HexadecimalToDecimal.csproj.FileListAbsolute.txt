@@ -1,0 +1,3 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\4. NumeralSystems\HeximalToDecimal\bin\Debug\HeximalToDecimal.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\4. NumeralSystems\HeximalToDecimal\obj\Debug\HeximalToDecimal.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\4. NumeralSystems\HeximalToDecimal\obj\Debug\HeximalToDecimal.pdb

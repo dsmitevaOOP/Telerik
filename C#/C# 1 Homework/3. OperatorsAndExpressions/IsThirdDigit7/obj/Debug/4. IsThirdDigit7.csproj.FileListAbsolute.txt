@@ -1,0 +1,5 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\IsThirdDigit7\bin\Debug\IsThirdDigit7.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\IsThirdDigit7\bin\Debug\IsThirdDigit7.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\IsThirdDigit7\bin\Debug\IsThirdDigit7.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\IsThirdDigit7\obj\Debug\IsThirdDigit7.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\IsThirdDigit7\obj\Debug\IsThirdDigit7.pdb

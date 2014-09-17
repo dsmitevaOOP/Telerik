@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\SumNXSecVar\bin\Debug\SumNXSecVar.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\SumNXSecVar\bin\Debug\SumNXSecVar.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\SumNXSecVar\bin\Debug\SumNXSecVar.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\SumNXSecVar\obj\Debug\SumNXSecVar.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\SumNXSecVar\obj\Debug\SumNXSecVar.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\SumNXSecVar\obj\Debug\SumNXSecVar.pdb

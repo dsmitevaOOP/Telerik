@@ -1,0 +1,13 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\VS\TelerikTest\IntroProgramming\PrintFiurstAndLastName\bin\Debug\PrintFiurstAndLastName.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\VS\TelerikTest\IntroProgramming\PrintFiurstAndLastName\bin\Debug\PrintFiurstAndLastName.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\VS\TelerikTest\IntroProgramming\PrintFiurstAndLastName\bin\Debug\PrintFiurstAndLastName.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\VS\TelerikTest\IntroProgramming\PrintFiurstAndLastName\obj\Debug\PrintFiurstAndLastName.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\VS\TelerikTest\IntroProgramming\PrintFiurstAndLastName\obj\Debug\PrintFiurstAndLastName.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\1. IntroProgramming\PrintFiurstAndLastName\bin\Debug\PrintFiurstAndLastName.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\1. IntroProgramming\PrintFiurstAndLastName\obj\Debug\PrintFiurstAndLastName.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\1. IntroProgramming\PrintFiurstAndLastName\obj\Debug\PrintFiurstAndLastName.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\1. IntroProgramming\PrintFiurstAndLastName\bin\Debug\PrintFiurstAndLastName.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\1. IntroProgramming\PrintFiurstAndLastName\bin\Debug\PrintFiurstAndLastName.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\1. IntroProgramming\PrintFiurstAndLastName\bin\Debug\PrintFiurstAndLastName.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\1. IntroProgramming\PrintFiurstAndLastName\obj\Debug\PrintFiurstAndLastName.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\1. IntroProgramming\PrintFiurstAndLastName\obj\Debug\PrintFiurstAndLastName.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\PrintSum\bin\Debug\PrintSum.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\PrintSum\obj\Debug\PrintSum.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\PrintSum\obj\Debug\PrintSum.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\PrintSum\bin\Debug\PrintSum.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\PrintSum\bin\Debug\PrintSum.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\4. ConsoleInputOutput\PrintSum\bin\Debug\PrintSum.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\4. ConsoleInputOutput\PrintSum\obj\Debug\PrintSum.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\4. ConsoleInputOutput\PrintSum\obj\Debug\PrintSum.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\4. ConsoleInputOutput\PrintSum\bin\Debug\PrintSum.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\4. ConsoleInputOutput\PrintSum\bin\Debug\PrintSum.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\4. ConsoleInputOutput\PrintSum\obj\Debug\01. PrintSum.csprojResolveAssemblyReference.cache

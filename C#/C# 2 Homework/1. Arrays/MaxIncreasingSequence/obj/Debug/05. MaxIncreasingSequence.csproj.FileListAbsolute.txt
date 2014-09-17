@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\1. Arrays\MaxIncreasingSequence\bin\Debug\MaxIncreasingSequence.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\1. Arrays\MaxIncreasingSequence\bin\Debug\MaxIncreasingSequence.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\1. Arrays\MaxIncreasingSequence\bin\Debug\MaxIncreasingSequence.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\1. Arrays\MaxIncreasingSequence\obj\Debug\MaxIncreasingSequence.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\1. Arrays\MaxIncreasingSequence\obj\Debug\MaxIncreasingSequence.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\1. Arrays\MaxIncreasingSequence\obj\Debug\05. MaxIncreasingSequence.csprojResolveAssemblyReference.cache

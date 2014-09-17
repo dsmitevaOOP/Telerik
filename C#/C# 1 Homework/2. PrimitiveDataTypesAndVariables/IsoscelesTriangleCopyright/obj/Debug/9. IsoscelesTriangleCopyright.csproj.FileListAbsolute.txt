@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\IsoscelesTriangleCopyright\bin\Debug\IsoscelesTriangleCopyright.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\IsoscelesTriangleCopyright\bin\Debug\IsoscelesTriangleCopyright.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\IsoscelesTriangleCopyright\bin\Debug\IsoscelesTriangleCopyright.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\IsoscelesTriangleCopyright\obj\Debug\IsoscelesTriangleCopyright.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\IsoscelesTriangleCopyright\obj\Debug\IsoscelesTriangleCopyright.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\IsoscelesTriangleCopyright\obj\Debug\9. IsoscelesTriangleCopyright.csprojResolveAssemblyReference.cache

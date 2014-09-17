@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\PracticalExam2011\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\PracticalExam2011\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\PracticalExam2011\LeastMajorityMultiple\bin\Debug\LeastMajorityMultiple.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\PracticalExam2011\LeastMajorityMultiple\obj\Debug\02. LeastMajorityMultiple.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\PracticalExam2011\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\PracticalExam2011\LeastMajorityMultiple\obj\Debug\LeastMajorityMultiple.pdb

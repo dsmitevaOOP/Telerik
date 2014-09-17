@@ -1,0 +1,2 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\3. Methods\Reverse\bin\Debug\Reverse.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 2 Homework\3. Methods\Reverse\obj\Debug\07. Reverse.csprojResolveAssemblyReference.cache

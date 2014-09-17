@@ -1,0 +1,5 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\CompanyManagerInfo\bin\Debug\CompanyManagerInfo.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\CompanyManagerInfo\bin\Debug\CompanyManagerInfo.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\CompanyManagerInfo\bin\Debug\CompanyManagerInfo.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\CompanyManagerInfo\obj\Debug\CompanyManagerInfo.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\CompanyManagerInfo\obj\Debug\CompanyManagerInfo.pdb

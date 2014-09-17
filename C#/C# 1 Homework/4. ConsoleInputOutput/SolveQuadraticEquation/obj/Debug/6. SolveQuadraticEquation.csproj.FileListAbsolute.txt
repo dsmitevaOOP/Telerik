@@ -1,0 +1,5 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\SolveQuadraticEquation\bin\Debug\SolveQuadraticEquation.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\SolveQuadraticEquation\bin\Debug\SolveQuadraticEquation.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\SolveQuadraticEquation\bin\Debug\SolveQuadraticEquation.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\SolveQuadraticEquation\obj\Debug\SolveQuadraticEquation.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\SolveQuadraticEquation\obj\Debug\SolveQuadraticEquation.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\OddOrEven\bin\Debug\OddOrEven.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\OddOrEven\obj\Debug\OddOrEven.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\OddOrEven\obj\Debug\OddOrEven.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\OddOrEven\bin\Debug\OddOrEven.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\OddOrEven\bin\Debug\OddOrEven.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\OddOrEven\bin\Debug\OddOrEven.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\OddOrEven\obj\Debug\OddOrEven.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\OddOrEven\obj\Debug\OddOrEven.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\OddOrEven\bin\Debug\OddOrEven.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\OddOrEven\bin\Debug\OddOrEven.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\OddOrEven\obj\Debug\01. OddOrEven.csprojResolveAssemblyReference.cache

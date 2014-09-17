@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. MatrixNNA", "MatrixNNA\1. MatrixNNA.csproj", "{924D858B-7F26-48AF-B66C-C62ABE069D3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. MatrixNNB", "MatrixNNB\2. MatrixNNB.csproj", "{061CB5B7-5A26-4DCD-A336-6E8BE02BE460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. MatrixNNC", "MatrixNNC\3. MatrixNNC.csproj", "{342A04AA-9788-42CB-A196-E107A3F8D667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{924D858B-7F26-48AF-B66C-C62ABE069D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{924D858B-7F26-48AF-B66C-C62ABE069D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{924D858B-7F26-48AF-B66C-C62ABE069D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{924D858B-7F26-48AF-B66C-C62ABE069D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{061CB5B7-5A26-4DCD-A336-6E8BE02BE460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{061CB5B7-5A26-4DCD-A336-6E8BE02BE460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{061CB5B7-5A26-4DCD-A336-6E8BE02BE460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{061CB5B7-5A26-4DCD-A336-6E8BE02BE460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{342A04AA-9788-42CB-A196-E107A3F8D667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342A04AA-9788-42CB-A196-E107A3F8D667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342A04AA-9788-42CB-A196-E107A3F8D667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342A04AA-9788-42CB-A196-E107A3F8D667}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

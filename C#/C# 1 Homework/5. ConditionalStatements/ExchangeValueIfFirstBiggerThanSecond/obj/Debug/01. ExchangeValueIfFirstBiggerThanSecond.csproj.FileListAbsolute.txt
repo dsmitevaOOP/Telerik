@@ -1,0 +1,12 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\ExchangeValueIfFirstBiggerThanSecond\bin\Debug\ExchangeValueIfFirstBiggerThanSecond.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\ExchangeValueIfFirstBiggerThanSecond\bin\Debug\ExchangeValueIfFirstBiggerThanSecond.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\ExchangeValueIfFirstBiggerThanSecond\bin\Debug\ExchangeValueIfFirstBiggerThanSecond.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\ExchangeValueIfFirstBiggerThanSecond\obj\Debug\01. ExchangeValueIfFirstBiggerThanSecond.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\ExchangeValueIfFirstBiggerThanSecond\obj\Debug\ExchangeValueIfFirstBiggerThanSecond.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\ExchangeValueIfFirstBiggerThanSecond\obj\Debug\ExchangeValueIfFirstBiggerThanSecond.pdb
+C:\Users\Dilyana\Desktop\Homework\ExchangeValueIfFirstBiggerThanSecond\bin\Debug\ExchangeValueIfFirstBiggerThanSecond.exe.config
+C:\Users\Dilyana\Desktop\Homework\ExchangeValueIfFirstBiggerThanSecond\obj\Debug\ExchangeValueIfFirstBiggerThanSecond.exe
+C:\Users\Dilyana\Desktop\Homework\ExchangeValueIfFirstBiggerThanSecond\obj\Debug\ExchangeValueIfFirstBiggerThanSecond.pdb
+C:\Users\Dilyana\Desktop\Homework\ExchangeValueIfFirstBiggerThanSecond\bin\Debug\ExchangeValueIfFirstBiggerThanSecond.exe
+C:\Users\Dilyana\Desktop\Homework\ExchangeValueIfFirstBiggerThanSecond\bin\Debug\ExchangeValueIfFirstBiggerThanSecond.pdb
+C:\Users\Dilyana\Desktop\Homework\ExchangeValueIfFirstBiggerThanSecond\obj\Debug\01. ExchangeValueIfFirstBiggerThanSecond.csprojResolveAssemblyReference.cache

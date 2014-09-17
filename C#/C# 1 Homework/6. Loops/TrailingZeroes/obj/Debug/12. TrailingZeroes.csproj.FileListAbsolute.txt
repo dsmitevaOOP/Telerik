@@ -1,0 +1,9 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\TrailingZeroes\bin\Debug\TrailingZeroes.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\TrailingZeroes\bin\Debug\TrailingZeroes.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\TrailingZeroes\bin\Debug\TrailingZeroes.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\TrailingZeroes\obj\Debug\12. TrailingZeroes.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\TrailingZeroes\obj\Debug\TrailingZeroes.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\TrailingZeroes\obj\Debug\TrailingZeroes.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\TrailingZeroes\bin\Debug\TrailingZeroes.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\TrailingZeroes\obj\Debug\TrailingZeroes.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\TrailingZeroes\obj\Debug\TrailingZeroes.pdb

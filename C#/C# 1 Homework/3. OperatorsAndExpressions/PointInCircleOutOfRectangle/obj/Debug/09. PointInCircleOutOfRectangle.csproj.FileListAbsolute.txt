@@ -1,0 +1,9 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\PointInCircleOutOfRectangle\bin\Debug\PointInCircleOutOfRectangle.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\PointInCircleOutOfRectangle\obj\Debug\09. PointInCircleOutOfRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\PointInCircleOutOfRectangle\bin\Debug\PointInCircleOutOfRectangle.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\PointInCircleOutOfRectangle\bin\Debug\PointInCircleOutOfRectangle.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\PointInCircleOutOfRectangle\obj\Debug\PointInCircleOutOfRectangle.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\3. OperatorsAndExpressions\PointInCircleOutOfRectangle\obj\Debug\PointInCircleOutOfRectangle.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\PointInCircleOutOfRectangle\bin\Debug\PointInCircleOutOfRectangle.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\PointInCircleOutOfRectangle\obj\Debug\PointInCircleOutOfRectangle.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\PointInCircleOutOfRectangle\obj\Debug\PointInCircleOutOfRectangle.pdb

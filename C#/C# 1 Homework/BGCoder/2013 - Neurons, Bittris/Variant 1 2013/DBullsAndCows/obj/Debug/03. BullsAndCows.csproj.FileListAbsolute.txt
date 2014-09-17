@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\BullsAndCows\obj\Debug\03. BullsAndCows.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\BullsAndCows\bin\Debug\BullsAndCows.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\BullsAndCows\bin\Debug\BullsAndCows.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\BullsAndCows\bin\Debug\BullsAndCows.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\BullsAndCows\obj\Debug\BullsAndCows.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\BullsAndCows\obj\Debug\BullsAndCows.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dilyana\Desktop\Contest\TwoFourEight\bin\Debug\TwoFourEight.exe.config
+C:\Users\Dilyana\Desktop\Contest\TwoFourEight\bin\Debug\TwoFourEight.exe
+C:\Users\Dilyana\Desktop\Contest\TwoFourEight\bin\Debug\TwoFourEight.pdb
+C:\Users\Dilyana\Desktop\Contest\TwoFourEight\obj\Debug\TwoFourEight.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Contest\TwoFourEight\obj\Debug\TwoFourEight.exe
+C:\Users\Dilyana\Desktop\Contest\TwoFourEight\obj\Debug\TwoFourEight.pdb

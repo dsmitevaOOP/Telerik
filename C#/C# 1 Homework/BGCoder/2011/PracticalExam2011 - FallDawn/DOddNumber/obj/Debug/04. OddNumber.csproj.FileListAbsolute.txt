@@ -1,0 +1,9 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\PracticalExam2011\OddNumber\bin\Debug\OddNumber.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\PracticalExam2011\OddNumber\bin\Debug\OddNumber.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\PracticalExam2011\OddNumber\bin\Debug\OddNumber.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\PracticalExam2011\OddNumber\obj\Debug\OddNumber.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\PracticalExam2011\OddNumber\obj\Debug\OddNumber.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\PracticalExam2011 - FallDown\OddNumber\bin\Debug\OddNumber.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\PracticalExam2011 - FallDown\OddNumber\obj\Debug\OddNumber.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\PracticalExam2011 - FallDown\OddNumber\obj\Debug\OddNumber.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\PracticalExam2011\OddNumber\obj\Debug\04. OddNumber.csprojResolveAssemblyReference.cache

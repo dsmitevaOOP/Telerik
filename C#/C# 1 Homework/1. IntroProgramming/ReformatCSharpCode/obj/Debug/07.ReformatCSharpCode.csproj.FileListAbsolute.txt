@@ -1,0 +1,5 @@
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\1. IntroProgramming\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\1. IntroProgramming\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\1. IntroProgramming\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\1. IntroProgramming\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\1. IntroProgramming\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb

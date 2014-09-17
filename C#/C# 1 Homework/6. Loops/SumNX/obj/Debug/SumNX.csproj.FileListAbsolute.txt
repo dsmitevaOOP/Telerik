@@ -1,0 +1,5 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\SumNX\bin\Debug\SumNX.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\SumNX\bin\Debug\SumNX.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\SumNX\bin\Debug\SumNX.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\SumNX\obj\Debug\SumNX.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\SumNX\obj\Debug\SumNX.pdb

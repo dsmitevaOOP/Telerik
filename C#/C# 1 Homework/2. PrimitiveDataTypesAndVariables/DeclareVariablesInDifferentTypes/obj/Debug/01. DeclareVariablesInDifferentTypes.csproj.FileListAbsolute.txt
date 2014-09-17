@@ -1,0 +1,11 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\DeclareVariablesInDifferentTypes\bin\Debug\DeclareVariablesInDifferentTypes.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\DeclareVariablesInDifferentTypes\bin\Debug\DeclareVariablesInDifferentTypes.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\DeclareVariablesInDifferentTypes\bin\Debug\DeclareVariablesInDifferentTypes.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\DeclareVariablesInDifferentTypes\obj\Debug\DeclareVariablesInDifferentTypes.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\2. PrimitiveDataTypesAndVariables\DeclareVariablesInDifferentTypes\obj\Debug\DeclareVariablesInDifferentTypes.pdb
+C:\Users\Dilyana\Desktop\New folder (2)\2. PrimitiveDataTypesAndVariables\DeclareVariablesInDifferentTypes\bin\Debug\DeclareVariablesInDifferentTypes.exe.config
+C:\Users\Dilyana\Desktop\New folder (2)\2. PrimitiveDataTypesAndVariables\DeclareVariablesInDifferentTypes\obj\Debug\DeclareVariablesInDifferentTypes.exe
+C:\Users\Dilyana\Desktop\New folder (2)\2. PrimitiveDataTypesAndVariables\DeclareVariablesInDifferentTypes\obj\Debug\DeclareVariablesInDifferentTypes.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\2. PrimitiveDataTypesAndVariables\2. Homework - Edited\2. PrimitiveDataTypesAndVariables\DeclareVariablesInDifferentTypes\bin\Debug\DeclareVariablesInDifferentTypes.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\2. PrimitiveDataTypesAndVariables\2. Homework - Edited\2. PrimitiveDataTypesAndVariables\DeclareVariablesInDifferentTypes\obj\Debug\DeclareVariablesInDifferentTypes.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\2. PrimitiveDataTypesAndVariables\2. Homework - Edited\2. PrimitiveDataTypesAndVariables\DeclareVariablesInDifferentTypes\obj\Debug\DeclareVariablesInDifferentTypes.pdb

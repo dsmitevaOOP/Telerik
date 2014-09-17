@@ -1,0 +1,5 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\NFactorialDividedByKFactorial\bin\Debug\NFactorialDividedByKFactorial.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\NFactorialDividedByKFactorial\bin\Debug\NFactorialDividedByKFactorial.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\NFactorialDividedByKFactorial\bin\Debug\NFactorialDividedByKFactorial.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\NFactorialDividedByKFactorial\obj\Debug\NFactorialDividedByKFactorial.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\NFactorialDividedByKFactorial\obj\Debug\NFactorialDividedByKFactorial.pdb

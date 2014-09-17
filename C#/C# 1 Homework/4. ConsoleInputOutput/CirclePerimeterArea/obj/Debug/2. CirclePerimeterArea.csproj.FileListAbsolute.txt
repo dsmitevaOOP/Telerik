@@ -1,0 +1,5 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\CirclePerimeterArea\bin\Debug\CirclePerimeterArea.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\CirclePerimeterArea\bin\Debug\CirclePerimeterArea.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\CirclePerimeterArea\bin\Debug\CirclePerimeterArea.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\CirclePerimeterArea\obj\Debug\CirclePerimeterArea.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\4. ConsoleInputOutput\CirclePerimeterArea\obj\Debug\CirclePerimeterArea.pdb

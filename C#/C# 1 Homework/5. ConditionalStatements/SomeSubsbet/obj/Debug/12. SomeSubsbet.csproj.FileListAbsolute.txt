@@ -1,0 +1,5 @@
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\5. ConditionalStatements\SomeSubsbet\bin\Debug\SomeSubsbet.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\5. ConditionalStatements\SomeSubsbet\bin\Debug\SomeSubsbet.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\5. ConditionalStatements\SomeSubsbet\bin\Debug\SomeSubsbet.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\5. ConditionalStatements\SomeSubsbet\obj\Debug\SomeSubsbet.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\5. ConditionalStatements\SomeSubsbet\obj\Debug\SomeSubsbet.pdb

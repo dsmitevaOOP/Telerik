@@ -1,0 +1,1 @@
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\3. OperatorsAndExpressions\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config

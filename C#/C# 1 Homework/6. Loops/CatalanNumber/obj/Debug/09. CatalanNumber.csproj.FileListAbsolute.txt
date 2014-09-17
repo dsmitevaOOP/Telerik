@@ -1,0 +1,9 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\CatalanNumber\bin\Debug\CatalanNumber.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\CatalanNumber\obj\Debug\09. CatalanNumber.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\CatalanNumber\bin\Debug\CatalanNumber.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\CatalanNumber\bin\Debug\CatalanNumber.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\CatalanNumber\obj\Debug\CatalanNumber.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\CatalanNumber\obj\Debug\CatalanNumber.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\CatalanNumber\bin\Debug\CatalanNumber.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\CatalanNumber\obj\Debug\CatalanNumber.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\CatalanNumber\obj\Debug\CatalanNumber.pdb

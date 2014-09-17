@@ -1,0 +1,11 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\PracticalExam2011\OddNumberAuthor\bin\Debug\OddNumberAuthor.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\PracticalExam2011\OddNumberAuthor\bin\Debug\OddNumberAuthor.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\PracticalExam2011\OddNumberAuthor\bin\Debug\OddNumberAuthor.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\PracticalExam2011\OddNumberAuthor\obj\Debug\OddNumberAuthor.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\PracticalExam2011\OddNumberAuthor\obj\Debug\OddNumberAuthor.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\PracticalExam2011 - FallDown\OddNumberAuthor\bin\Debug\OddNumberAuthor.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\PracticalExam2011 - FallDown\OddNumberAuthor\obj\Debug\OddNumberAuthor.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\PracticalExam2011 - FallDown\OddNumberAuthor\obj\Debug\OddNumberAuthor.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\BGCoder\2011\PracticalExam2011 - FallDawn\OddNumberAuthor\bin\Debug\OddNumberAuthor.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\BGCoder\2011\PracticalExam2011 - FallDawn\OddNumberAuthor\obj\Debug\OddNumberAuthor.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\BGCoder\2011\PracticalExam2011 - FallDawn\OddNumberAuthor\obj\Debug\OddNumberAuthor.pdb

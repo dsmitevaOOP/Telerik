@@ -1,0 +1,11 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\Cards\bin\Debug\Cards.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\Cards\bin\Debug\Cards.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\Cards\bin\Debug\Cards.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\Cards\obj\Debug\Cards.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\6. Loops\Cards\obj\Debug\Cards.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 1 Homework\6. Loops\Cards\bin\Debug\Cards.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 1 Homework\6. Loops\Cards\obj\Debug\Cards.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# 1 Homework\6. Loops\Cards\obj\Debug\Cards.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\Cards\bin\Debug\Cards.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\Cards\obj\Debug\Cards.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\6. Loops\Cards\obj\Debug\Cards.pdb

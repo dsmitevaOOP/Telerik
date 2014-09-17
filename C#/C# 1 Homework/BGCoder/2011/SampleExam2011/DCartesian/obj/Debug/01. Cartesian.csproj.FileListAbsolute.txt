@@ -1,0 +1,12 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\Cartesian\bin\Debug\Cartesian.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\Cartesian\bin\Debug\Cartesian.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\Cartesian\bin\Debug\Cartesian.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\Cartesian\obj\Debug\01. Cartesian.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\Cartesian\obj\Debug\Cartesian.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\SampleExam2011\Cartesian\obj\Debug\Cartesian.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\SampleExam2011\Cartesian\bin\Debug\Cartesian.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\SampleExam2011\Cartesian\obj\Debug\Cartesian.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\BGCoder\2011\SampleExam2011\Cartesian\obj\Debug\Cartesian.pdb
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\BGCoder\2011\SampleExam2011\Cartesian\bin\Debug\Cartesian.exe.config
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\BGCoder\2011\SampleExam2011\Cartesian\obj\Debug\Cartesian.exe
+C:\Users\Dilyana\Desktop\Telerik\C#\C# 1 Homework\BGCoder\2011\SampleExam2011\Cartesian\obj\Debug\Cartesian.pdb

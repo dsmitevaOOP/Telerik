@@ -1,0 +1,12 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\SignProduct\bin\Debug\SignProduct.exe.config
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\SignProduct\obj\Debug\02. SignProduct.csprojResolveAssemblyReference.cache
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\SignProduct\bin\Debug\SignProduct.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\SignProduct\bin\Debug\SignProduct.pdb
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\SignProduct\obj\Debug\SignProduct.exe
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\C# Homework\5. ConditionalStatements\SignProduct\obj\Debug\SignProduct.pdb
+C:\Users\Dilyana\Desktop\Homework\SignProduct\bin\Debug\SignProduct.exe.config
+C:\Users\Dilyana\Desktop\Homework\SignProduct\obj\Debug\SignProduct.exe
+C:\Users\Dilyana\Desktop\Homework\SignProduct\obj\Debug\SignProduct.pdb
+C:\Users\Dilyana\Desktop\Homework\SignProduct\bin\Debug\SignProduct.exe
+C:\Users\Dilyana\Desktop\Homework\SignProduct\bin\Debug\SignProduct.pdb
+C:\Users\Dilyana\Desktop\Homework\SignProduct\obj\Debug\02. SignProduct.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+C:\Users\Dilyana\Desktop\Didi\Telerik\C#\VS\TelerikTest\IntroProgramming\PrintFiurstAndLastName\bin\Debug\PrintFiurstAndLastName.exe.config
